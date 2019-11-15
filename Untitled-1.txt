@@ -10,3 +10,66 @@
       </ul>
     </nav>
       <h1 id="logo">AGHYAD007<span class="FW-300">design</span></h1>
+
+      <!-- START CONTAINER STYLE 2 -->
+    <!-- <section class="container style-2 AC">
+
+        <header class="major">
+          <h2>Cultural and aesthetic landmarks in <strong>Damascus</strong> !</h2>
+        </header>
+
+        <div class="row DF">
+
+          <section>
+            <header>
+              <i class="icon featured fa-check"></i>
+              <h3>The Umayyad Mosque</h3>
+            </header>
+
+            <p>
+                The Umayyad Mosque in Damascus is one of the most famous cultural and religious landmarks in the city of Damascus.
+                It dates back to the era of the Umayyad rule of Damascus. Featured.            </p>
+          </section>
+
+          <section>
+          	<header>
+              <i class="icon featured fa-check"></i>
+              <h3>Also Something</h3>
+            </header>
+
+            <p>
+              It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+              The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.
+            </p>
+          </section>
+
+          <section>
+          	<header>
+              <i class="icon featured fa-check"></i>
+              <h3>Probably Something</h3>
+            </header>
+
+            <p>
+              Contrary to popular belief, Lorem Ipsum is not simply random text.
+              It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.
+              Richard McClintock a Latin professor at Hampden-Sydney College in Virginia...
+            </p>
+          </section>
+
+        </div>
+
+      </section> -->
+      
+      <!-- END CONTAINER STYLE 2 -->
+
+
+
+        <!-- <ul class="featured-icons DF">
+          <li><i class="icon fa-clock-o"></i></li>
+          <li><i class="icon fa-volume-up"></i></li>
+          <li><i class="icon fa-laptop"></i></li>
+          <li><i class="icon fa-inbox"></i></li>
+          <li><i class="icon fa-lock"></i></li>
+          <li><i class="icon fa-cog"></i></li>
+        </ul> -->
+
