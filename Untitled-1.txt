@@ -1,0 +1,12 @@
+    <img src="..." alt="Company Logo">
+    <nav>
+      <h2> My nav</h2>
+      <ul>
+        <li><a href=""></a></li>
+        <li><a href=""></a></li>
+        <li><a href=""></a></li>
+        <li><a href=""></a></li>
+        <li><a href=""></a></li>
+      </ul>
+    </nav>
+      <h1 id="logo">AGHYAD007<span class="FW-300">design</span></h1>

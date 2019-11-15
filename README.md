@@ -1,2 +1,2 @@
-# My ptoject
-By Aghyad
+# twenty
+A website based on Twenty template
