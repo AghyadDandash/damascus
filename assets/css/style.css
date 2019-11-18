@@ -304,6 +304,10 @@ body {
 #logo a {
 	border: none;
 }
+#logo-1 {
+	width: 10%;
+	max-width: 200px;
+}
 
 
 /* HEADER --> NAV TRIGGERS
